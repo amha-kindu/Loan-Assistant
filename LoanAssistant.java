@@ -38,6 +38,7 @@ class LoanAssistant {
     frame.setLayout(new GridBagLayout());
     gbc = new GridBagConstraints();
     this.setup();
+    frame.setVisible(true);
   }
   private void setup()
   {
