@@ -1,2 +1,2 @@
-# Loan-Assitant
-This is a java application written in java using swing library
+# Loan-Assistant
+Loan-Assistant is a financial application written in java using swing library. Given a loan balance, an interest rate and the a monthly payment it computes the number of payments needed to fully return the loan. Additionally given a loan balance, an interest rate and number of payments it computes the monthly payment that must be paid to return the loan within the specified number of payments.
